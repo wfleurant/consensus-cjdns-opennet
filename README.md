@@ -1,7 +1,7 @@
 consensus-cjdns-opennet
 =======================
 
-The voting closes on 2014/03/03 00:00:00 UTC
+The voting closes on 2015/03/03 00:00:00 UTC
 
 For details, see https://github.com/cjdelisle/cjdns/issues/712.
 
